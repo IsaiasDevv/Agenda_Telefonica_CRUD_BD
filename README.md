@@ -1,3 +1,15 @@
+### **_Interface Gráfica_** 
+
+<img width="880" height="604" alt="Image" src="https://github.com/user-attachments/assets/f3fbcdfa-5979-47b4-8266-2dd65ce8b67a" />
+
+### **_IDE Eclipse Códigos Fontes e Organização das Pastas_** 
+
+<img width="886" height="604" alt="Image" src="https://github.com/user-attachments/assets/4306a8cd-b3c9-44b0-bdf9-f2326d3fa196" />
+
+### **_Banco de Dados MySQL_**
+
+<img width="884" height="604" alt="Image" src="https://github.com/user-attachments/assets/172bbb04-586f-4419-bdb6-b9f6eefccbd8" />
+
 # 📞 Agenda Telefônica 
 
 <div align="center">
